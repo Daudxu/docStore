@@ -1,0 +1,13 @@
+{
+    "name": "Crypti White Paper",
+    "description": "Crypti is a next generation platform that allows for the development and distribution of JavaScript based decentralized applications using an easy to use, fully featured ecosystem.", 
+    "external_url": "https://daudxu.github.io/docStore",
+    "image": "https://daudxu.github.io/docStore/images/4.png", 
+    "tokenId" : 4,
+    "attributes": [
+        {
+          "trait_type": "hash", 
+          "value": "411bb8dfb67cab1ed0f30f92fa55df6b"
+        }
+    ]
+}

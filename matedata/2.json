@@ -1,0 +1,13 @@
+{
+    "name": "0x: An open protocol for decentralized exchange on the Ethereum blockchain",
+    "description": "We describe a protocol that facilitates low friction peer-to-peer exchange of ERC20 tokens on the Ethereum blockchain. The protocol is intended to serve as an open standard and common building block", 
+    "external_url": "https://daudxu.github.io/docStore",
+    "image": "https://daudxu.github.io/docStore/images/2.png", 
+    "tokenId" : 2,
+    "attributes": [
+        {
+          "trait_type": "hash", 
+          "value": "7471d9af325799655b26b666ab9c6455"
+        }
+    ]
+}
