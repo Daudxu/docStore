@@ -1,0 +1,13 @@
+{
+    "name": "Crypto.com Whitepaper 1.04",
+    "description": "CRO Protocol Labs (“Crypto.com”) intends to operate in full compliance with applicable laws and regulations and use its best endeavours to obtain the necessary licences and approvals.", 
+    "external_url": "https://daudxu.github.io/docStore",
+    "image": "https://daudxu.github.io/docStore/images/5.png", 
+    "tokenId" : 5,
+    "attributes": [
+        {
+          "trait_type": "hash", 
+          "value": "a38fbb43dfc90e85c409e49d27c804b1"
+        }
+    ]
+}

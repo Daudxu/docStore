@@ -1,0 +1,13 @@
+{
+    "name": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+    "description": "Abstract. A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.", 
+    "external_url": "https://daudxu.github.io/docStore",
+    "image": "https://daudxu.github.io/docStore/images/3.png", 
+    "tokenId" : 3,
+    "attributes": [
+        {
+          "trait_type": "hash", 
+          "value": "d56d71ecadf2137be09d8b1d35c6c042"
+        }
+    ]
+  }
